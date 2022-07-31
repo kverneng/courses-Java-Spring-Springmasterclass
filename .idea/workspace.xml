@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5568236-03bf-4605-80c3-1821237b24e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/GuessCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/config/game.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/GameImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/GameImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/MaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/MaxNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/NumberGeneratorimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/NumberGeneratorimpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/config/GameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/academy/learnprogramming/config/GameConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/academy/learnprogramming/GameImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/academy/learnprogramming/GameImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/academy/learnprogramming/NumberGeneratorimpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/academy/learnprogramming/NumberGeneratorimpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/academy/learnprogramming/config/GameConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/academy/learnprogramming/config/GameConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
