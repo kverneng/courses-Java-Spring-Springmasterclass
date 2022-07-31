@@ -10,6 +10,7 @@ public class NumberGeneratorimpl implements NumberGenerator{
     private final Random random = new Random();
 
     @Autowired
+    @MaxNumber
     private int maxNumber;
 
     @Override
