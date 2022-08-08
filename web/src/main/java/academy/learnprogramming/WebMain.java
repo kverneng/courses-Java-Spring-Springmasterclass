@@ -1,5 +1,6 @@
 package academy.learnprogramming;
 
+import academy.learnprogramming.service.GameServiceImpl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
